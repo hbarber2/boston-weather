@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="cool.svg"
+   id="svg996"
+   viewBox="0 0 27.065 77.544"
+   version="1.1"
+   height="77.544mm"
+   width="27.065mm">
+  <defs
+     id="defs1000" />
+  <sodipodi:namedview
+     inkscape:current-layer="g994"
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:cy="146.53984"
+     inkscape:cx="41.502154"
+     inkscape:zoom="1.8663866"
+     showgrid="false"
+     id="namedview998"
+     inkscape:window-height="755"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <metadata
+     id="metadata980">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g994"
+     transform="translate(-70.378 -78.108)">
+    <circle
+       style="stroke:#e8e8e8;stroke-opacity:1;fill:#ff5555"
+       id="circle982"
+       stroke-width="1.665"
+       stroke="#000"
+       fill="#f00"
+       r="12.7"
+       cy="142.12"
+       cx="83.911" />
+    <g
+       style="fill:#ffffff;stroke:#e7e7e7;stroke-opacity:1"
+       id="g990"
+       stroke="#000"
+       fill="none">
+      <path
+         style="fill:#ffffff;stroke:#e7e7e7;stroke-opacity:1"
+         id="path984"
+         stroke-width="1.5875"
+         d="m78.052 130.4c-0.062995-17.135-0.12599-34.27-0.18899-51.405" />
+      <path
+         style="fill:#ffffff;stroke:#e7e7e7;stroke-opacity:1"
+         id="path986"
+         stroke-width="1.6118"
+         d="m77.111 78.914h13.393" />
+      <path
+         style="fill:#ffffff;stroke:#e7e7e7;stroke-opacity:1"
+         id="path988"
+         stroke-width="1.5875"
+         d="m89.946 130.4c-0.063-17.135-0.12599-34.27-0.18899-51.405" />
+    </g>
+    <rect
+       style="fill:#ff5555"
+       id="rect992"
+       fill="#f00"
+       height="21.577"
+       width="10.433"
+       y="115.12"
+       x="78.769" />
+  </g>
+</svg>

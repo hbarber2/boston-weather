@@ -1,0 +1,120 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+background: rgb(72,101,201);
+background: linear-gradient(194deg, rgba(72,101,201,0.758140756302521) 0%, rgba(97,97,233,0.8841911764705882) 12%, rgba(19,131,237,1) 100%);
+font-family: 'Poppins', sans-serif;
+	font-weight: 200;
+	color: white;
+	margin: 0;
+}
+
+header {
+	margin: 0;
+	background-color: rgb(72,101,201);
+	background-repeat: no-repeat;
+	background-image: url(../img/Bostonscape.jpg);
+	background-size: contain;
+	background-position: top;
+	height: 20vh;
+	background-attachment: fixed;
+
+}
+
+h1 {
+	text-align: center;
+	margin: 0;
+	padding: 10px 0;
+}
+
+
+h2 {
+		padding: 10px;
+}
+
+h3 {
+	text-align: center;
+}
+
+main {
+	margin: 0 20px;
+}
+
+#weather {
+	border-color: aqua;
+	margin: 0 auto;
+	padding: 1em;
+}
+
+p {
+	margin: 0;
+	text-align: center;
+	
+}
+
+#local-weather {
+	margin-bottom: 60px;
+}
+
+.current-div {
+	display:flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	margin: 10px 0;
+}
+
+.current-weather {
+	background-color: rgba(255, 255, 255, .4);
+	padding: 10px 50px;
+	border-radius: 20px;
+}
+
+.hourly-div {
+	margin: 10px 20px;
+background-color: rgba(255, 255, 255, .4);
+	border-radius: 20px;
+	padding: 20px 0;
+
+	
+}
+
+#thermo img {
+	height: 50px;
+	padding-left: 20px;
+	padding-top: 10px;
+}
+
+.current-heading {
+	display: flex;
+	justify-content: center;
+}
+
+
+
+@media (min-width: 768px) {
+	
+	h1 {
+		font-size: 3em;
+	}
+	
+	main {
+		margin: 0 50px;
+	}
+	
+	.hourly-div {
+	margin: 10px 20px;
+		display:flex;
+	justify-content: space-around;
+		flex-wrap: wrap;	
+			
+}
+	
+	p {
+	margin: 0;
+	text-align: center;
+	
+}
+	
+}

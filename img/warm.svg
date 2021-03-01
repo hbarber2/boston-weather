@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="warm.svg"
+   id="svg2166"
+   viewBox="0 0 27.065 77.544"
+   version="1.1"
+   height="77.544mm"
+   width="27.065mm">
+  <defs
+     id="defs2170" />
+  <sodipodi:namedview
+     inkscape:current-layer="g2164"
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="2"
+     inkscape:cy="146.53984"
+     inkscape:cx="41.875044"
+     inkscape:zoom="1.9414516"
+     showgrid="false"
+     id="namedview2168"
+     inkscape:window-height="746"
+     inkscape:window-width="1278"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <metadata
+     id="metadata2150">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g2164"
+     transform="translate(-70.378 -78.108)">
+    <circle
+       style="stroke:#e8e8e8;stroke-opacity:1;fill:#ff5555"
+       id="circle2152"
+       stroke-width="1.665"
+       stroke="#000"
+       fill="#f00"
+       r="12.7"
+       cy="142.12"
+       cx="83.911" />
+    <g
+       style="stroke:#e8e8e8;stroke-opacity:1"
+       id="g2160"
+       stroke="#000"
+       fill="none">
+      <path
+         style="stroke:#e8e8e8;stroke-opacity:1"
+         id="path2154"
+         stroke-width="1.5875"
+         d="m78.052 130.4c-0.062995-17.135-0.12599-34.27-0.18899-51.405" />
+      <path
+         style="stroke:#e8e8e8;stroke-opacity:1"
+         id="path2156"
+         stroke-width="1.6118"
+         d="m77.111 78.914h13.393" />
+      <path
+         style="stroke:#e8e8e8;stroke-opacity:1"
+         id="path2158"
+         stroke-width="1.5875"
+         d="m89.946 130.4c-0.063-17.135-0.12599-34.27-0.18899-51.405" />
+    </g>
+    <rect
+       style="fill:#ff5555"
+       id="rect2162"
+       fill="#f00"
+       height="33.944"
+       width="10.433"
+       y="102.76"
+       x="78.769" />
+  </g>
+</svg>
